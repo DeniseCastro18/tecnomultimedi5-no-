@@ -43,7 +43,7 @@ Juego(){
   }
   posy=550;
 
-  estado ="jugar";
+  estado ="menu";
   }
 
  // METODOS (funciones)
